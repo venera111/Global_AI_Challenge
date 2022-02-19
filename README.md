@@ -1,5 +1,7 @@
 # Global_AI_Challenge
 
+
+### Ligand Activity prediction for similar targets
 A set of labeled datasets on the experimental activity of small molecules on COVID-19
 You have to build structure-activity relationship for COVID-19 targets. Classification metrics will be used for the leaderboard
 
